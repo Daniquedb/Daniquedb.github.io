@@ -10,4 +10,4 @@ Voor dit project moeten wij een robot AI en een dashboard maken. De robot commun
 <img src="Tekening robot.png">
 Bij het maken van deze tekening probeerde ik mij vooral in te beelden wat kinderen leuk zouden vinden, maar ook hoe ik het "dark" kan maken. Naar mijn idee zullen gebruikers iets wat er vriendelijk uitziet eerder vertrouwen. 
 
-<img src="Tekening dashboard.png" style="transform: rotate(-90deg)>
+<img src="Tekening dashboard.png" style="transform: rotate(-90deg)">
