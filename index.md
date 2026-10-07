@@ -8,6 +8,7 @@ Voor dit project moeten wij een robot AI en een dashboard maken. De robot commun
 ## Stap 1: Het tekenen van het design
 
 <img src="Tekening robot.png">
+<br><br>
 Bij het maken van deze tekening probeerde ik mij vooral in te beelden wat kinderen leuk zouden vinden, maar ook hoe ik het "dark" kan maken. Naar mijn idee zullen gebruikers iets wat er vriendelijk uitziet eerder vertrouwen. 
 <br><br>
 
