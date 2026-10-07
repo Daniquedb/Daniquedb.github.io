@@ -1,35 +1,40 @@
-Juf Aimee is een hybride intelligent systeem dat hoogbegaafde leerlingen die thuiszitten moet ondersteunen met weer naar school gaan.
+Juf Aimee is een hybride intelligent systeem dat hoogbegaafde leerlingen die thuiszitten moet ondersteunen bij de re-integratie naar school.
 
 # Sprint 1
 _07/10/2026_
 
-Voor dit project moeten wij een robot AI en een dashboard maken. De robot communiceert met de hoogbegaafde kinderen en het dashboard wordt gebruikt door de docenten (hier communiceert de docent ook met juf Aimee om opdrachten te genereren voor de leerlingen en hun voortgang bij te houden).
+Voor dit project ontwikkelen wij een AI-robot en een dashboard. De robot communiceert met de hoogbegaafde leerlingen, terwijl het dashboard wordt gebruikt door de docenten. Via het dashboard kunnen docenten ook communiceren met Juf Aimee, opdrachten genereren en de voortgang van hun leerlingen bijhouden.
 
 ## Stap 1: Het tekenen van het design
 
 <img src="Tekening robot.png">
 <br><br>
-Bij het maken van deze tekening probeerde ik mij vooral in te beelden wat kinderen leuk zouden vinden, maar ook hoe ik het "dark" kan maken. Naar mijn idee zullen gebruikers iets wat er vriendelijk uitziet eerder vertrouwen. 
+Bij het maken van deze tekening probeerde ik mij vooral in te beelden wat kinderen precies aanspreekt, en tegelijkertijd na te denken over hoe deze robot 'dark' gemaakt kan worden. Naar mijn idee wekt iets wat er vriendelijk uitziet juist meer vertrouwen bij de gebruikers, waardoor het met meer kan wegkomen.
 <br><br>
 
 <img src="Tekening dashboard.png">
 <br><br>
-Het maken van het dashboard vond ik erg lastig. Ik heb wel een aantal dark patterns weten toe te voegen, zoals streaks en het moeten afsluiten van een abonnement om bepaalde informatie te kunnen zien. Daarbij wordt er veel informatie over de leerlingen vastgelegd, wat een inbreuk is op privacy. Ik wist alleen niet zo goed welke informatie belangrijk is voor een docent om te weten en wat ik nog meer kon toevoegen.
+Het ontwerpen van het dashboard vond ik erg lastig. Ik heb wel een aantal dark patterns weten toe te voegen, zoals streaks en het verplicht moeten afsluiten van een abonnement om bepaalde informatie te kunnen zien. Daarnaast wordt er veel informatie over de leerlingen vastgelegd, wat een inbreuk vormt op de privacy. Ik wist alleen niet zo goed welke informatie nu echt belangrijk is voor een docent en wat ik nog meer aan het dashboard zou kunnen toevoegen.
 
 ## Stap 2: Een fysiek prototype maken
 <img src="Prototype robot.png">
 <br><br>
-Nadat mijn projectgroep en ik naar onze tekeningen hadden gekeken, hadden wij drie verschillende prototypes gemaakt. Ik had samen met Serena dit prototype gemaakt. Het prototype is iets anders dan de tekening, in plaats van twee schermen is het er nu één en de handen zijn nu wanten geworden. Wij vonden het prototype er zo leuker en vriendelijker uitzien dan de tekening.
+Nadat wij onze tekeningen binnen de projectgroep hadden besproken, hebben wij drie verschillende fysieke prototypes gebouwd. Samen met Serena heb ik dit prototype gemaakt. Het prototype wijkt iets af van de tekening; in plaats van twee schermen heeft het er nu één en de handen zijn vervangen door wanten. Wij vonden dat het prototype er zo veel leuker en vriendelijker uitziet dan de tekening. Daarbij is er ook een camera toegevoegd, want dit was ik bij de tekening vergeten.
 <br><br>
-Iemand anders uit mijn projectgroep heeft verschillende UX designs gemaakt van het dashboard, de dark patterns moeten er nog aan toegevoegd worden maar wij willen eerst feedback van de opdrachtgever voordat wij het verder uitwerken.
+Iemand anders uit mijn projectgroep heeft op basis van mijn tekening verschillende UX designs voor het dashboard gemaakt. De dark patterns moeten er nog wel aan wordeen toegevoegd, maar wij willen eerst de feedback van de opdrachtgever afwachten voordat wij dit verder uitwerken.
 
 ## Stap 3: Het testen van prototypes
-Wij hebben de prototypes getest door aan medestudenten te vragen welk prototype zij mooier vonden (ook voor de specifieke doelgroep). Hieruit kwam dat de meesten het prototype wat ik had gemaakt het mooist vonden, vooral omdat het erg vriendelijk oogt. Wel vonden veel studenten ook dat twee prototypes gecombineert konden worden. Het andere prototype had bijvoorbeeld een metaallook, waarvan zij vonden dat het mooi zou staan bij mijn prototype.
+We hebben de prototypes getest door aan medestudenten te vragen welk ontwerp zij het mooist vonden (ook specifiek kijkend naar de doelgroep). Hieruit bleek dat de meesten de voorkeur gaven aan mijn prototype, vooral vanwege de vriendelijke uitstraling. Wel gaven veel studenten de suggestie om elementen van twee prototypes te combineren. Zo had een ander prototype bijvoorbeeld een metaallook, wat volgens hen ook erg mooi zou staan bij mijn ontwerp.
+
+## Eindresultaat & wat ik heb geleerd
+Op het moment hebben wij verschillende prototypes voor zowel de robot als het dashboard. Wij willen deze eerst nog aan de opdrachtgever voorleggen voordat wij een definitieve keuze maken.
+<br>
+Wat ik deze sprint vooral heb geleerd, is dat een eerste prototype nooit meteen perfect is. Er is altijd ruimte voor verbetering en nieuwe inzichten. Omdat mijn ideeën nogal verschilden van die van mijn groepsgenoten, heb ik bovendien ontzettend veel opgestoken van hun perspectieven.
 
 ## De volgende sprint
-Voor de volgende sprint moeten er een aantal dingen gebeuren:
-- Er moet nagedacht worden over welke dark patterns wij willen toevoegen aan het dashboard.
-- De dashboard prototypes moeten getest worden.
-- De feedback die wij krijgen van de opdrachtgever/medestudenten moet verwerkt worden in de nieuwe prototypes.
-- We moeten ons verdiepen in wat wij precies willen bereiken met ons provocotype.
-- Ons verdiepen in hoe wij de robot precies gaan bouwen/wat de mogelijkheden zijn.
+Voor de volgende sprint moeten de volgende punten nog gebeuren:
+- Nadenken over welke dark patterns we precies willen toevoegen aan het dashboard.
+- Het testen van de dashboardprototypes.
+- Het verwerken van de feedback van de opdrachtgever en medestudenten in de nieuwe prototypes.
+- Ons verder verdiepen in wat wij willen bereiken met ons provocotype.
+- Onderzoeken hoe we de robot technisch gaan bouwen en wat de mogelijkheden zijn.
