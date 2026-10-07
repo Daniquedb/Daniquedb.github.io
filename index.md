@@ -12,7 +12,7 @@ Voor dit project moeten wij een robot AI en een dashboard maken. De robot commun
 Bij het maken van deze tekening probeerde ik mij vooral in te beelden wat kinderen leuk zouden vinden, maar ook hoe ik het "dark" kan maken. Naar mijn idee zullen gebruikers iets wat er vriendelijk uitziet eerder vertrouwen. 
 <br><br>
 
-<img src="Tekening dashboard.png" style="transform: rotate(-90deg)">
+<img src="Tekening dashboard.png">
 <br><br>
 Het maken van het dashboard vond ik erg lastig. Ik heb wel een aantal dark patterns weten toe te voegen, zoals streaks en het moeten afsluiten van een abonnement om bepaalde informatie te kunnen zien. Daarbij wordt er veel informatie over de leerlingen vastgelegd, wat een inbreuk is op privacy. Ik wist alleen niet zo goed welke informatie belangrijk is voor een docent om te weten en wat ik nog meer kon toevoegen.
 
