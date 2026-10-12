@@ -38,3 +38,6 @@ Voor de volgende sprint moeten de volgende punten nog gebeuren:
 - Het verwerken van de feedback van de opdrachtgever en medestudenten in de nieuwe prototypes.
 - Ons verder verdiepen in wat wij willen bereiken met ons provocotype.
 - Onderzoeken hoe we de robot technisch gaan bouwen en wat de mogelijkheden zijn.
+
+##Feedback
+Tijdens de werkgroep heb ik mijn devlog besproken met medestudenten. Over  het algemeen waren de reacties positief; mijn plannen voor de volgende sprint zijn helder. Wel kreeg ik twee belangrijke verbeterpunten mee: ik moet mij bij het presenteren meer richten op wat ik persoonlijk heb gedaan in plaats van wat we als team hebben bereikt (bij het schrijven van de devlog heb ik dit wel goed gedaan, alleen tijdens het bespreken van de devlog niet). Daarnaast kan ik in mijn devlog ook beschrijven wat ik heb gedaan voor de individuele opdrachten. Ondanks dat het huiswerkopdrachten waren, waren het wel belangrijke onderzoeken voor het prokect.
