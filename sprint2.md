@@ -7,7 +7,7 @@
 # Sprint 2
 _05/11/2026_
 
-Ik heb mij deze sprint vooral gefocust op designen, het vinden van apparaten die wij nodig hebben voor dit project en voorbereiden op Society 5.0. 
+Deze sprint lag mijn focus vooral op het design, het vinden van de apparaten die wij nodig hebben voor dit project en de voorbereiding op Society 5.0. 
 
 ## Stap 1: Het vinden van een tablet/beeldscherm
 
@@ -17,7 +17,7 @@ Ik heb mij deze sprint vooral gefocust op designen, het vinden van apparaten die
 </div>
 <br>
 
-Voor onze robot ben ik eerst op zoek gegaan naar beeldschermen. Omdat wij maar een klein budget hebben voor het project wilde ik eerst kijken of ik het beeldscherm gratis kon krijgen. De gratis beeldschermen die ik kreeg aangeboden waren alleen te groot. Eén beeldscherm was precies het formaat (10.1") wat wij zochten maar zat nog vast aan een grote machine, waar allemaal waarschuwingen opstonden dat je het er niet zomaar af kan halen. Daarom stelde ik aan mijn team voor dat wij het best bij kringloopwinkels konden kijken, ik hoopte daar voor weinig geld een beeldscherm of tablet op de kop te tikken.
+Voor onze robot ben ik eerst op zoek gegaan naar beeldschermen. Omdat wij maar een klein budget hebben voor het project, wilde ik eerst kijken of ik het beeldscherm gratis kon krijgen. De beeldschermen die ik gratis aangeboden kreeg, waren alleen te groot. Eén beeldscherm had het juiste formaat (10.1 inch), maar zat nog vast aan een grote machine waarop allemaal waarschuwingen stonden dat je het er niet zomaar af kan halen. Daarom stelde ik aan mijn team voor dat wij het best bij kringloopwinkels konden kijken; ik hoopte daar voor weinig geld een beeldscherm of tablet op de kop te tikken.
 <br>
 
 <div class="image-row">
@@ -26,19 +26,19 @@ Voor onze robot ben ik eerst op zoek gegaan naar beeldschermen. Omdat wij maar e
 </div>
 <br>
 
-Ik ben bij verschillende kringloopwinkels geweest maar zij hadden geen tablets en ook geen kleine beeldschermen. Gelukkig had ik een paar dagen daarvoor samen met mijn vader een bericht in een Facebookgroep genaamd "De weggeefhoek" (+stadsnaam) gezet en hadden wij gevraagd of iemand misschien een oude 10.1" tablet voor mij hadden die zij niet meer gebruikten. Dat verliep een beetje stroef, maar soms gaven mensen wel antwoord. Vandaar dat ik uiteindelijk bij kringloopwinkels ging kijken. Hij had vaak het bericht gehad dat er instanties zijn die hierbij kunnen helpen, maar ik had de tablet voor iets totaal anders nodig dan waar deze instanties mee willen helpen. Uiteindelijk hebben wij toch een tablet voor niks bij iemand kunnen ophalen.
+Ik ben bij verschillende kringloopwinkels geweest, maar zij hadden geen tablets en ook geen kleine beeldschermen. Daarna had ik ook bij de uitleenservice van de HvA gekeken, maar die tablets kun je maar voor een week lenen. Gelukkig had ik een paar dagen daarvoor, samen met mijn vader, een bericht gezet in een Facebookgroep genaamd 'De weggeefhoek (+stadsnaam)'. Daarin hadden wij gevraagd of iemand misschien een oude 10.1"-tablet had die niet meer gebruikt werd. Dat verliep eerst een beetje stroef, maar soms reageerden er wel mensen. Mijn vader en ik kregen vaak de reactie dat er instanties zijn die hierbij kunnen helpen, maar ik had de tablet voor iets totaal anders nodig dan waar deze instanties mee kunnen of willen helpen. Uiteindelijk hebben wij toch een tablet voor niks bij iemand kunnen ophalen.
 
-## Stap 2: De apparaten die wij gaan gebruiken verwerken in het project
+## Stap 2: Aan de slag met de apparatuur
 <img src="TABLET.jpg" width="400">
 <br>
 
-Voor ons project willen wij dus een tablet gebruiken, maar ook graag een camera. Thuis had ik nog een oude webcam liggen waarvan het snoertje waarschijnlijk stuk is, dus als de andere onderdelen nog werken dan kunnen wij dat gebruiken en dan besparen wij weer op ons budget.
+Voor ons project willen wij dus een tablet gebruiken, maar het liefst ook een camera. Thuis had ik nog een oude webcam liggen waarvan het snoertje waarschijnlijk stuk is. Als de rest van de onderdelen nog werkt, dan kunnen wij die gebruiken en dan besparen wij weer op het budget.
 <br>
 
 <img src="camera.jpg" width="400">
 <br>
 
-Op school heb ik alle schroefjes die ik kon vinden uit de camera gehaald en er ook stukken plastic van afgesloopt. Ik ben uiteindelijk gestopt omdat ik bang was dat ik de onderdelen zou beschadigen en omdat de juiste gereedschappen niet op school te vinden waren.  
+Op school heb ik alle schroefjes die ik kon vinden uit de webcam gehaald en er ook stukken plastic van verwijderd. Ik ben uiteindelijk gestopt omdat ik bang was dat ik de onderdelen zou beschadigen, en omdat het juiste gereedschap niet op school te vinden was. 
 <br>
 
 <div class="image-row">
@@ -47,22 +47,22 @@ Op school heb ik alle schroefjes die ik kon vinden uit de camera gehaald en er o
 </div>
 <br>
 
-Uiteindelijk heb ik thuis stukken plastic met tangen eraf gekregen en de laatste schroefjes uit de webcam gehaald. Alle onderdelen waarvan ik dacht dat ze misschien handig zouden zijn, zoals de microfoon, heb ik ook bewaard.
+Uiteindelijk heb ik thuis met tangen stukken plastic eraf weten te krijgen en de laatste schroefjes uit de webcam gehaald. Alle onderdelen waarvan ik dacht dat ze misschien handig zouden zijn, zoals de microfoon, heb ik ook bewaard.
 
 ## Stap 3: Een nieuw paper prototype maken
-Wij wilden graag ons paper prototype van de vorige sprint gebruiken voor onze tests bij Society 5.0. Helaas was het prototype weggegooid door een docent, dus ik heb een nieuwe gemaakt.
+Wij wilden graag ons paper prototype van de vorige sprint gebruiken voor onze tests bij Society 5.0. Helaas was het prototype weggegooid door een docent, dus heb ik een nieuwe gemaakt.
 
 <img src="paper prototype1.jpg" width="400">
 <br>
 
-Deze keer wilde ik graag een design maken waar de tablet inpast, zodat de testpersonen bij Society 5.0 niet alleen een tablet hadden om de test op te doen maar ook voor zich konden zien hoe Juf Aimee er uiteindelijk uit komt te zien. 
-Ik heb dit gedaan door een omtrek op karton te maken van de tablet in de hoes, zodat het met hoes en al in het paper prototype past en er ook goed in blijft zitten. Daarbuiten heb ik alle stukken die eromheen zouden zitten ook meteen op het karton getekend. Het was best lastig om de juiste maten te krijgen en ik had het ook best vaak aangepast, maar uiteindelijk was het gelukt en heb ik het uit het karton gesneden.
+Deze keer wilde ik graag een design maken waar de tablet in past, zodat de testpersonen bij Society 5.0 niet alleen een tablet hadden om de test op te doen, maar ook een beeld kregen van hoe Juf Aimee er uiteindelijk uit komt te zien. 
+Ik heb dit gedaan door op karton de omtrek te tekenen van de tablet in de hoes. Zo past het er met hoes en al in en hoopte ik dat het er ook goed in zou blijven zitten. Daarbuiten heb ik alle onderdelen die eromheen komen te zitten ook meteen op het karton getekend. Het was best lastig om de juiste maten te vinden en ik heb het vaak moeten aanpassen, maar uiteindelijk is het gelukt en heb ik het uitgesneden.
 <br>
 
 <img src="paper prototype2.jpg" width="400">
 <br>
 
-Het uitsnijden ging niet helemaal lekker. De tekening klopte alsnog niet helemaal en daardoor had ik te veel van het karton weggesneden. Vervolgens heb ik toch maar alles aan elkaar geplakt en was alleen één hoek niet helemaal mooi, wat later alsnog was opgelost.
+Het uitsnijden ging helaas niet helemaal goed. De tekening klopte toch niet helemaal, waardoor ik te veel van het karton had weggesneden. Vervolgens had ik alles aan elkaar geplakt met lijm. Alleen één hoek zag er niet helemaal mooi uit, maar dat is later alsnog opgelost.
 
 <div class="image-row">
   <img src="paper prototype3.jpg" width="300">
@@ -70,43 +70,43 @@ Het uitsnijden ging niet helemaal lekker. De tekening klopte alsnog niet helemaa
 </div>
 <br>
 
-Bij deze stap had ik het karton eruit gesneden waar de tablet komt te zitten. Daarbij had Serena mij geholpen met het mooi maken van het prototype en hadden wij de metaallook van ons andere prototype waarvan studenten zeiden dat ze het mooi vonden ook aan dit prototype toegevoegd. Dit hielp goed bij het verschuilen van foutjes.
+Bij deze stap heb ik het stuk karton uitgesneden waar de tablet komt te zitten. Serena heeft mij geholpen met het afwerken van het prototype. Zo hadden wij de metaallook van één van onze vorige prototypes, waarvan medestudenten zeiden dat ze het mooi vonden, ook aan dit prototype toegevoegd. Dit hielp meteen bij het verbergen van kleine foutjes.
 
 <img src="paper prototype5.jpg" width="400">
 <br>
 
-Dit is het uiteindelijke prototype geworden die wij bij Society 5.0 hebben gebruikt. Door het maken van dit prototype weet ik wel wat ik voor de volgende anders moet doen; er is meer ruimte nodig voor de oplaadkabel en waarschijnlijk ook voor de camera, dus het volgende prototype wordt iets groter. Een ander probleem was dat de tablet steeds om blijf vallen, daarom had ik aan mijn teamgenoten gevraagd of zij misschien oude kranten hadden om achter de tablet te stoppen. Zo hebben wij het uiteindelijk ook opgelost.
+Dit is het uiteindelijke prototype geworden dat wij bij Society 5.0 hebben gebruikt. Door het maken van dit prototype weet ik wel wat ik voor de volgende keer anders moet doen: er is meer ruimte nodig voor de oplaadkabel en waarschijnlijk ook voor de camera, dus het volgende prototype wordt iets groter. Een ander probleem was dat de tablet steeds om bleef vallen. Daarom heb ik aan mijn teamgenoten gevraagd of zij misschien oude kranten hadden om achter de tablet te stoppen. Zo hebben wij het uiteindelijk ook opgelost.
 
 ## Stap 3: Het maken van het scherm op de robot
-Tijdens de vorige sprint hadden wij eigenlijk niet nagedacht over hoe de opdrachten voor de hoogbegaafde leerlingen er uiteindelijk uit zouden zien, daarom had ik daar deze sprint een begin aan gemaakt. Op dit design wordt uitgelegd wat de opdracht precies inhoudt en daarna kunnen de leerlingen keersommen maken. Na het maken van de keersommen kunnen zij zien hoe hoog zij in het scorebord staan van alle leerlingen.
+Tijdens de vorige sprint hadden wij er eigenlijk niet over nagedacht hoe de opdrachten voor de hoogbegaafde leerlingen er uiteindelijk uit zouden zien. Daarom ben ik daar deze sprint mee begonnen. Op dit design wordt uitgelegd wat de opdracht precies inhoudt, waarna de leerlingen keersommen kunnen maken. Na het maken van de sommen kunnen zij zien hoe hoog zij op het scorebord staan van alle leerlingen.
 
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/K1oRKt3Fhi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Bij Society 5.0 konden de testpersonen het dashboard van ons project testen maar ik wilde ook graag dat zij de "robot" zelf ook konden testen, daarom had ik het Figma design voor het evenement aangepast. Het originele design werkte niet omdat de leerling eigenlijk met Juf Aimee moet praten en wij nog geen microfoon hebben, daarbij kan dat ook niet in een Figma design verwerkt worden. Ik had dit opgelost door groene een rode knopjes aan de schermen toe te voegen, waar wij op konden drukken als de testpersonen de sommen goed of fout deden. Op het eindscherm zouden zij dan zien waar zij belanden op het scorebord.
+Bij Society 5.0 konden de testpersonen het dashboard van ons project testen, maar ik wilde ook graag dat zij de 'robot' zelf konden uitproberen. Daarom had ik het Figma-design voor het evenement aangepast. Het originele design werkte niet omdat de leerling eigenlijk met Juf Aimee moet praten en wij nog geen microfoon hebben. Daarbij kan dat ook niet in een Figma-design verwerkt worden. Ik heb dit opgelost door groene en rode knopjes aan de schermen toe te voegen, waar wij op konden drukken als de testpersonen de sommen goed of fout hadden. Op het eindscherm konden zij dan zien waar ze op het scorebord belandden.
 
 ## Stap 4: Testen bij Society 5.0
-Mijn idee voor de test was dat één van ons Juf Aimee's stem zou zijn en opmerkingen zou maken, iemand anders maakt hardop aantekeningen van wat de testpersoon doet en nog iemand drukt op de knopjes op het scherm.
+Mijn idee voor de test was dat één van ons Juf Aimee's stem zou zijn en opmerkingen zou maken, iemand anders hardop aantekeningen zou maken van wat de testpersoon deed, en weer iemand anders op de knopjes op de tablet zou drukken.
 
 <img src="Society.jpeg" width="400">
 <br>
 
-Bij de tests heb ik alle drie de rollen uitgevoerd, maar vooral het maken van aantekeningen. Voor mijn gevoel hebben we veel aan deze tests gehad. Veel van de testpersonen gaven mij het gevoel dat het echt een dark prototype was, ze zagen er vaak nerveus uit en hadden echt moeite met Juf Aimee. Ik heb hierdoor veel over ons project geleerd en weet nu wat er de volgende sprint aan verandert moet worden. 
+Tijdens de tests heb ik alle drie de rollen uitgevoerd, maar ik heb mij vooral gericht op het maken van aantekeningen. Voor mijn gevoel hebben we veel aan deze tests gehad. Veel van de testpersonen gaven mij het idee dat het echt een dark prototype was; ze zagen er vaak nerveus uit en hadden echt moeite met de interactie met Juf Aimee. Hierdoor heb ik ontzettend veel over ons project geleerd en weet ik nu precies wat er de volgende sprint aan veranderd moet worden. 
 
 ## Eindresultaat & wat ik heb geleerd
-Door het maken van het nieuwe paper prototype weet ik nu wat er aan het volgende prototype moet veranderen. Deze sprint heb ik wederom weer geleerd dat prototypes nooit meteen perfect zijn en het maken ervan verloopt ook niet altijd even goed. Het klinkt logisch, maar deze sprint heb ik ook geleerd dat heel veel testen echt belangrijk is. Ik laat mijn prototypes wel altijd testen, maar op kleinere schaal dan bij Society 5.0. Er is altijd ruimte voor verbeteringen en soms komen testpersonen ook met heel goede inzichten.
+Door het maken van het nieuwe paper prototype weet ik nu wat er aan de volgende versie moet veranderen. Deze sprint heb ik wederom geleerd dat prototypes nooit meteen perfect zijn en het maken ervan niet altijd vlekkeloos verloopt. Het klinkt logisch, maar ik heb deze sprint ook gemerkt hoe belangrijk het is om uitgebreid te testen. Hoewel ik mijn prototypes altijd laat testen, gebeurt dat op kleinere schaal dan bij Society 5.0. Er is altijd ruimte voor verbetering, en testpersonen komen soms met heel waardevolle inzichten.
 <br>
 
 ## De volgende sprint
-Voor de volgende sprint moeten de volgende punten nog gebeuren:
-- Behuizing maken van de robot.
-- Gamification verwerken in scherm op tablet.
-- Het verwerken van de feedback van de opdrachtgever, medestudenten en andere testpersonen in de nieuwe prototypes.
-- Willen wij dat Juf Aimee heel onaardig is of juist heel aardig?
-- Camera werkend krijgen, als de onderdelen niet werken een nieuw onderdeel bestellen.
-- Een microfoon regelen en speakers of koptelefoon.
-- Andere testpersonen zoeken die vergelijkbaar zijn met hoogbegaafden (neurodivergenten, thuiszitters?).
-- Kunnen praten met Juf Aimee.
+De volgende stappen voor sprint 3:
+- Behuizing voor de robot ontwerpen en maken.
+- Gamification integreren bij het design voor het scherm op de tablet.
+- De feedback van de opdrachtgever, medestudenten en andere testpersonen verwerken in de nieuwe prototypes.
+- Bepalen of wij willen dat Juf Aimee heel onaardig is of juist heel aardig.
+- Camera werkend krijgen (en een nieuw onderdeel bestellen als de huidige niet werkt). 
+- Een microfoon en speakers of koptelefoon regelen.
+- Andere testpersonen zoeken die vergelijkbaar zijn met hoogbegaafden (zoals neurodivergenten of thuiszitters).
+- Zorgen dat de testpersonen echt kunnen praten met Juf Aimee.
 
 ## Feedback
