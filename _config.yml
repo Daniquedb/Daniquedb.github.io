@@ -1,7 +1,7 @@
 theme: jekyll-theme-midnight
 title: Juf Aimee
-description: Welkom op mijn portfolio
+
 header_pages:
   - index.md
-  - over-mij.md
+  - sprint2.md
   - projecten.md
