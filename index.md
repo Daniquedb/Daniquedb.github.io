@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sprint 1
+---
+
 Juf Aimee is een hybride intelligent systeem dat hoogbegaafde leerlingen die thuiszitten moet ondersteunen bij de re-integratie naar school.
 
 # Sprint 1
