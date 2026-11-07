@@ -1,8 +1,8 @@
-<div style="float: left; width: 150px; margin-right: 20px; border-right: 2px solid #333; padding-right: 10px;">
-  <p><strong>Menu</strong></p>
-  <a href="index.html">Sprint 1</a><br><br>
-  <a href="sprint2.html">Sprint 2</a>
-</div>
+<nav>
+  <a href="{{ site.baseurl }}/index.html">Sprint 1</a> | 
+  <a href="{{ site.baseurl }}/sprint2.html">Sprint 2</a>
+</nav>
+
 <br><br>
 
 Juf Aimee is een hybride intelligent systeem dat hoogbegaafde leerlingen die thuiszitten moet ondersteunen bij de re-integratie naar school.
