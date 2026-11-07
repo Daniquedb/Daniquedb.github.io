@@ -3,6 +3,7 @@
   <a href="index.html">Sprint 1</a><br><br>
   <a href="sprint2.html">Sprint 2</a>
 </div>
+<br><br>
 
 # Sprint 2
 _07/11/2026_
