@@ -41,3 +41,28 @@ Voor de volgende sprint moeten de volgende punten nog gebeuren:
 
 ## Feedback
 Tijdens de werkgroep heb ik mijn devlog besproken met medestudenten. Over  het algemeen waren de reacties positief; mijn plannen voor de volgende sprint zijn helder. Wel kreeg ik twee belangrijke verbeterpunten mee: ik moet mij bij het presenteren meer richten op wat ik persoonlijk heb gedaan in plaats van wat we als team hebben bereikt (bij het schrijven van de devlog heb ik dit wel goed gedaan, alleen tijdens het bespreken van de devlog niet). Daarnaast kan ik in mijn devlog ook beschrijven wat ik heb gedaan voor de individuele opdrachten. Ondanks dat het huiswerkopdrachten waren, waren het wel belangrijke onderzoeken voor het project.
+
+# Sprint 2
+_07/11/2026_
+
+Ik heb mij deze sprint vooral gefocust op designen en het vinden van apparaten die wij nodig hebben voor dit project.
+
+## Stap 1: Het vinden van een tablet/beeldscherm
+
+<div class="image-row">
+  <img src="Beeldscherm 1.png" width="150">
+  <img src="Beeldscherm 2.png" width="150">
+</div>
+<br><br>
+Voor onze robot ben ik eerst op zoek gegaan naar beeldschermen. 
+
+## De volgende sprint
+Voor de volgende sprint moeten de volgende punten nog gebeuren:
+- Nadenken over welke dark patterns we precies willen toevoegen aan het dashboard.
+- Het testen van de dashboardprototypes.
+- Het verwerken van de feedback van de opdrachtgever en medestudenten in de nieuwe prototypes.
+- Ons verder verdiepen in wat wij willen bereiken met ons provocotype.
+- Onderzoeken hoe we de robot technisch gaan bouwen en wat de mogelijkheden zijn.
+
+## Feedback
+Tijdens de werkgroep heb ik mijn devlog besproken met medestudenten. Over  het algemeen waren de reacties positief; mijn plannen voor de volgende sprint zijn helder. Wel kreeg ik twee belangrijke verbeterpunten mee: ik moet mij bij het presenteren meer richten op wat ik persoonlijk heb gedaan in plaats van wat we als team hebben bereikt (bij het schrijven van de devlog heb ik dit wel goed gedaan, alleen tijdens het bespreken van de devlog niet). Daarnaast kan ik in mijn devlog ook beschrijven wat ik heb gedaan voor de individuele opdrachten. Ondanks dat het huiswerkopdrachten waren, waren het wel belangrijke onderzoeken voor het project.
