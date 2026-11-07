@@ -18,6 +18,21 @@ Ik heb mij deze sprint vooral gefocust op designen en het vinden van apparaten d
 <br><br>
 Voor onze robot ben ik eerst op zoek gegaan naar beeldschermen. Omdat wij maar een klein budget hebben voor het project wilde ik eerst kijken of ik het beeldscherm gratis kon krijgen. De gratis beeldschermen die ik kreeg aangeboden waren alleen te groot. Eén beeldscherm was precies het formaat (10.1") wat wij zochten maar zat nog vast aan een grote machine, waar allemaal waarschuwingen opstonden dat je het er niet zomaar af kan halen. Daarom stelde ik aan mijn team voor dat wij het best bij kringloopwinkels konden kijken, ik hoopte daar voor weinig geld een beeldscherm of tablet op de kop te tikken.
 
+<div class="image-row">
+  <img src="kringloop.jpg" width="300">
+  <img src="kringloop2.jpg" width="300">
+</div>
+<br><br>
+
+Ik ben bij verschillende kringloopwinkels geweest maar zij hadden geen tablets en ook geen kleine beeldschermen. Gelukkig had ik een paar dagen daarvoor samen met mijn vader een bericht in een Facebookgroep genaamd "De weggeefhoek" (+stadsnaam) gezet en hadden wij gevraagd of iemand misschien een oude 10.1" tablet voor mij hadden die zij niet meer gebruikten. Dat verliep een beetje stroef, maar soms gaven mensen wel antwoord. Vandaar dat ik uiteindelijk bij kringloopwinkels ging kijken. Hij had vaak het bericht gehad dat er instanties zijn die hierbij kunnen helpen, maar ik had de tablet voor iets totaal anders nodig dan waar deze instanties mee willen helpen. Uiteindelijk hebben wij toch een tablet voor niks bij iemand kunnen ophalen.
+
+## Stap 2: De apparaten die wij gaan gebruiken verwerken in het project
+<img src="TABLET.jpg" width="300">
+<br><br>
+Voor ons project willen wij dus een tablet gebruiken, maar ook graag een camera. Thuis had ik nog een oude webcam liggen waarvan het snoertje waarschijnlijk stuk is, dus als de andere onderdelen nog werken dan kunnen wij dat gebruiken en dan besparen wij weer op ons budget.
+<img src="camera.jpg" width="300">
+<br><br>
+
 
 ## De volgende sprint
 Voor de volgende sprint moeten de volgende punten nog gebeuren:
