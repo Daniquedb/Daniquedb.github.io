@@ -5,15 +5,15 @@
 <br><br>
 
 # Sprint 2
-_07/11/2026_
+_05/11/2026_
 
 Ik heb mij deze sprint vooral gefocust op designen en het vinden van apparaten die wij nodig hebben voor dit project.
 
 ## Stap 1: Het vinden van een tablet/beeldscherm
 
 <div class="image-row">
-  <img src="Beeldscherm 2.png" width="400">
-  <img src="Beeldscherm 1.png" width="400">
+  <img src="Beeldscherm 2.png" width="300">
+  <img src="Beeldscherm 1.png" width="300">
 </div>
 <br><br>
 Voor onze robot ben ik eerst op zoek gegaan naar beeldschermen. Omdat wij maar een klein budget hebben voor het project wilde ik eerst kijken of ik het beeldscherm gratis kon krijgen. De gratis beeldschermen die ik kreeg aangeboden waren alleen te groot. Eén beeldscherm was precies het formaat (10.1") wat wij zochten maar zat nog vast aan een grote machine, waar allemaal waarschuwingen opstonden dat je het er niet zomaar af kan halen. Daarom stelde ik aan mijn team voor dat wij het best bij kringloopwinkels konden kijken, ik hoopte daar voor weinig geld een beeldscherm of tablet op de kop te tikken.
