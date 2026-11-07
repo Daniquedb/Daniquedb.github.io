@@ -3,6 +3,11 @@ layout: default
 title: Sprint 1
 ---
 
+<nav>
+  <a href="{{ site.baseurl }}/index.html">Sprint 1</a> | 
+  <a href="{{ site.baseurl }}/sprint2.html">Sprint 2</a>
+</nav>
+
 Juf Aimee is een hybride intelligent systeem dat hoogbegaafde leerlingen die thuiszitten moet ondersteunen bij de re-integratie naar school.
 
 # Sprint 1
