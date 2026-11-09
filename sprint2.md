@@ -26,7 +26,7 @@ Voor onze robot ben ik eerst op zoek gegaan naar beeldschermen. Omdat wij maar e
 </div>
 <br>
 
-Ik ben bij verschillende kringloopwinkels geweest, maar zij hadden geen tablets en ook geen kleine beeldschermen. Daarna had ik ook bij de uitleenservice van de HvA gekeken, maar die tablets kun je maar voor een week lenen. Gelukkig had ik een paar dagen daarvoor, samen met mijn vader, een bericht gezet in een Facebookgroep genaamd 'De weggeefhoek (+stadsnaam)'. Daarin hadden wij gevraagd of iemand misschien een oude 10.1"-tablet had die niet meer gebruikt werd. Dat verliep eerst een beetje stroef, maar soms reageerden er wel mensen. Mijn vader en ik kregen vaak de reactie dat er instanties zijn die hierbij kunnen helpen, maar ik had de tablet voor iets totaal anders nodig dan waar deze instanties mee kunnen of willen helpen. Uiteindelijk hebben wij toch een tablet voor niks bij iemand kunnen ophalen.
+Ik ben bij verschillende kringloopwinkels geweest, maar zij hadden geen tablets en ook geen kleine beeldschermen. Daarna had ik ook bij de uitleenservice van de HvA gekeken, maar die tablets kun je maar voor een week lenen. Gelukkig had ik een paar dagen daarvoor, samen met mijn vader, een bericht gezet in een Facebookgroep genaamd 'De weggeefhoek (+stadsnaam)'. Daarin hadden wij gevraagd of iemand misschien een oude 10.1 inch tablet had die niet meer gebruikt werd. Dat verliep eerst een beetje stroef, maar soms reageerden er wel mensen. Mijn vader en ik kregen vaak de reactie dat er instanties zijn die hierbij kunnen helpen, maar ik had de tablet voor iets totaal anders nodig dan waar deze instanties mee kunnen of willen helpen. Uiteindelijk hebben wij toch een tablet voor niks bij iemand kunnen ophalen.
 
 ## Stap 2: Aan de slag met de apparatuur
 <img src="TABLET.jpg" width="400">
@@ -110,3 +110,12 @@ De volgende stappen voor sprint 3:
 - Zorgen dat de testpersonen echt kunnen praten met Juf Aimee.
 
 ## Feedback
+Ik heb mijn devlog tijdens de werkgroep niet kunnen bespreken met medestudenten omdat ik ziek was. Daarom heb ik op een andere dag alsnog feedback gevraagd aan studenten uit mijn werkgroep. Heel veel dingen gingen deze sprint goed:
+- Ik heb het niet kunnen vinden van een tablet op een goede manier opgelost.
+- Ik heb goed geëxperimenteerd met de prototypes, waardoor ik fouten kon oplossen.
+- Er is tijdens en na het testen goed nagedacht over de manier waarop we Juf Aimee willen maken.
+- Het was erg goed dat het weggooien van het paper prototype mij niet heeft tegengehouden en dat ik een nieuwe heb gemaakt. Dit laat zien dat ik het geduld heb om bij fouten of onverwachte omstandigheden opnieuw te beginnen.
+Een aantal dingen die nog moeten verbeteren of aangepast kunnen worden:
+- Op tijd aankloppen bij een docent als er iets niet goed gaat binnen mijn projectgroep.
+- Het idee om de testgroep uit te breiden is goed, maar deze testpersonen moeten van buiten school komen.
+Ik heb veel aan deze feedback gehad, omdat het ook erg belangrijke punten zijn om te verbeteren. Ik ga dit zeker meenemen in de volgende sprint.
