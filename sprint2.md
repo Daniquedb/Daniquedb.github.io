@@ -118,4 +118,5 @@ Ik heb mijn devlog tijdens de werkgroep niet kunnen bespreken met medestudenten 
 Een aantal dingen die nog moeten verbeteren of aangepast kunnen worden:
 - Op tijd aankloppen bij een docent als er iets niet goed gaat binnen mijn projectgroep.
 - Het idee om de testgroep uit te breiden is goed, maar deze testpersonen moeten van buiten school komen.
+
 Ik heb veel aan deze feedback gehad, omdat het ook erg belangrijke punten zijn om te verbeteren. Ik ga dit zeker meenemen in de volgende sprint.
