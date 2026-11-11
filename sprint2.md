@@ -77,16 +77,17 @@ Bij deze stap heb ik het stuk karton uitgesneden waar de tablet komt te zitten. 
 
 Dit is het uiteindelijke prototype geworden dat wij bij Society 5.0 hebben gebruikt. Door het maken van dit prototype weet ik wel wat ik voor de volgende keer anders moet doen: er is meer ruimte nodig voor de oplaadkabel en waarschijnlijk ook voor de camera, dus het volgende prototype wordt iets groter. Een ander probleem was dat de tablet steeds om bleef vallen. Daarom heb ik aan mijn teamgenoten gevraagd of zij misschien oude kranten hadden om achter de tablet te stoppen. Zo hebben wij het uiteindelijk ook opgelost.
 
-## Stap 3: Het maken van het scherm op de robot
-Tijdens de vorige sprint hadden wij er eigenlijk niet over nagedacht hoe de opdrachten voor de hoogbegaafde leerlingen er uiteindelijk uit zouden zien. Daarom ben ik daar deze sprint mee begonnen. Op dit design wordt uitgelegd wat de opdracht precies inhoudt, waarna de leerlingen keersommen kunnen maken. Na het maken van de sommen kunnen zij zien hoe hoog zij op het scorebord staan van alle leerlingen.
+## Stap 4: Het maken van het scherm op de robot
+<img src="Tekening robotbuik.jpg" width="400">
+Tijdens de vorige sprint hadden wij er eigenlijk niet over nagedacht hoe de opdrachten voor de hoogbegaafde leerlingen er uiteindelijk uit zouden zien. Daarom ben ik daar deze sprint mee begonnen. Op dit design wordt uitgelegd wat de opdracht precies inhoudt, waarna de leerlingen keersommen kunnen maken. Na het maken van de sommen kunnen zij zien hoe hoog zij op het scorebord staan van alle leerlingen. Eerst had ik een tekening gemaakt om te kijken of mijn ideeën ook echt werkten en vervolgens heb ik dit uitgewerkt in een Figma-design.
 
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/K1oRKt3Fhi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Bij Society 5.0 konden de testpersonen het dashboard van ons project testen, maar ik wilde ook graag dat zij de 'robot' zelf konden uitproberen. Daarom had ik het Figma-design voor het evenement aangepast. Het originele design werkte niet omdat de leerling eigenlijk met Juf Aimee moet praten en wij nog geen microfoon hebben. Daarbij kan dat ook niet in een Figma-design verwerkt worden. Ik heb dit opgelost door groene en rode knopjes aan de schermen toe te voegen, waar wij op konden drukken als de testpersonen de sommen goed of fout hadden. Op het eindscherm konden zij dan zien waar ze op het scorebord belandden.
+Bij Society 5.0 konden de testpersonen het dashboard testen dat we voor de docent hebben ontworpen, maar ik wilde heel graag dat zij de 'robot', die de leerling uiteindelijk gaat gebruiken, ook konden uitproberen. Daarom had ik het Figma-design voor het evenement aangepast. Het originele design werkte niet omdat de leerling eigenlijk met Juf Aimee moet praten en wij nog geen microfoon hebben. Daarbij kan dat ook niet in een Figma-design verwerkt worden. Ik heb dit opgelost door groene en rode knopjes aan de schermen toe te voegen, waar wij op konden drukken als de testpersonen de sommen goed of fout hadden. Op het eindscherm konden zij dan zien waar ze op het scorebord belandden.
 
-## Stap 4: Testen bij Society 5.0
+## Stap 5: Testen bij Society 5.0
 Mijn idee voor de test was dat één van ons Juf Aimee's stem zou zijn en opmerkingen zou maken, iemand anders hardop aantekeningen zou maken van wat de testpersoon deed, en weer iemand anders op de knopjes op de tablet zou drukken.
 
 <img src="Society.jpeg" width="400">
