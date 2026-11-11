@@ -79,6 +79,7 @@ Dit is het uiteindelijke prototype geworden dat wij bij Society 5.0 hebben gebru
 
 ## Stap 4: Het maken van het scherm op de robot
 <img src="Tekening robotbuik.jpg" width="400">
+<br>
 Tijdens de vorige sprint hadden wij er eigenlijk niet over nagedacht hoe de opdrachten voor de hoogbegaafde leerlingen er uiteindelijk uit zouden zien. Daarom ben ik daar deze sprint mee begonnen. Op dit design wordt uitgelegd wat de opdracht precies inhoudt, waarna de leerlingen keersommen kunnen maken. Na het maken van de sommen kunnen zij zien hoe hoog zij op het scorebord staan van alle leerlingen. Eerst had ik een tekening gemaakt om te kijken of mijn ideeën ook echt werkten en vervolgens heb ik dit uitgewerkt in een Figma-design.
 
 <div style="text-align: center;">
