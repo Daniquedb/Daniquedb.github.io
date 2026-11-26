@@ -172,7 +172,7 @@ Ik ga de armen, benen, wanten en schoenen van Juf Aimee haken.
 <br>
 <div class="image-row">
   <img src="garen1.jpg" width="200">
-  <img src="" width="350">
+  <img src="garen2.jpeg" width="300">
 </div>
 <br>
 
