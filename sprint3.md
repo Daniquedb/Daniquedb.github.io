@@ -144,19 +144,67 @@ Vervolgens had ik hetzelfde getekend voor de zijkanten van Juf Aimee.
 ### Veranderingen
 Door het op een schaal van 1:1 te tekenen, werd het voor mij duidelijker dat dit design nog niet af is. Er zijn een aantal punten die ik nog zou aanpassen:
 - Er moet meer ruimte komen in de behuizing voor de onderdelen, de camera en de tablet zitten nu te dicht op elkaar. De randen om de tablet heen zijn te dun.
-- De zijkanten en de boven- en onderkant moeten dieper, ook om meer ruimte te creeëren maar ook om het provocotype stabieler te maken.
+- De zijkanten en de boven- en onderkant moeten dieper, ook om meer ruimte te creeëren maar ook om het provocotype stabieler te maken. Deze worden waarschijnlijk in plaats van 3 centimer, 6 centimeter.
 - Aan de achterkant moeten meer scharnieren komen en iets om de achterkant vast te zetten zodat het niet elke keer opengaat.
 - Op het scherm van de tablet zijn de zijkanten zwart. Dit gaat om 0,5 centimer aan de boven- en onderkant en 1 centimeter aan de zijkanten. Deze kunnen verbergd worden, waardoor ik de klemmen van de tablethoes misschien ook kan gebruiken om de tablet in de behuizing vast te zetten. Deze kan je dan namelijk niet meer zien.
 
 <br>
+(Voorbeeld van de klemmen)
 <img src="TABLET.jpg" width="500">
+<br> 
+
+Ik had mijn tekeningen meegenomen naar school en besproken met mijn team. Zij waren het eens met de veranderingen. Ook vertelde Serena mij dat het cameraonderdeel niet op zijn kant kan, alleen rechtop. Ook had ik gevraagd naar de lens, daar moet waarschijnlijk een gat van 1 centimeter voor komen. Er moet dus nog genoeg ruimte gemaakt worden voor de camera, dus de bovenste rand wordt sowieso groter dan op mijn tekening.
+
+<br>
+<img src="design.jpg" width="500">
 <br>
 
-
 ## Stap 5: Bouwmateriaal
+Ik wilde deze sprint graag beginnen aan het bouwen van de behuizing, dat kon helaas niet omdat ik moest weten of de camera zou passen en dat deed het dus niet. Ook lijkt het mij verstandig om eerst weer nieuwe tekeningen te maken in plaats van de behuizing.
+Omdat ik niet verder kon had ik alvast dingen opgezocht over materialen die ik de volgende sprint nodig heb. 
+
+### Verf
+Mijn team wilde dat het provocotype een chroomlook zou krijgen. Ik heb mijn best gedaan om verf te vinden die ik hiervoor kan gebruiken, en verf die dan ook nog betaalbaar is. Hieruit is gekomen dat chroomverf in de meeste gevallen niet veegvast is, en anders onbetaalbaar. Daarbij kan er geen lak bovenop gespoten worden om het wel veegvast te maken, dan verliest de verf zijn glans en wordt het gewoon grijs. Het provocotype wordt wel aangeraakt, het is daarom belangrijk dat de verf ook goed blijft zitten. Het beste alternatief dat ik kon vinden was metallic zilver, dit had ik aan mijn team verteld en zij vonden dat ook een goed alternatief.
+
+### Garen
+Ik ga de armen, benen, wanten en schoenen van Juf Aimee haken. 
+
+<br>
+<div class="image-row">
+  <img src="garen1.jpg" width="200">
+  <img src="" width="350">
+</div>
+<br>
+
+Van het eerste plaatje ga ik het bovenste bolletje gebruiken om de wanten te haken en de blauwe daaronder voor de schoenen. Het zwarte bolletje ga ik vervolgens gebruiken om de armen en benen te haken.
+
+### Haakpatronen
+Als laatste had ik haakpatronen opgezocht die ik kan gebruiken voor Juf Aimee. Hiervoor heb ik naar babywanten en schoenen gezocht.
+
+<br>
+<div class="image-row">
+  <img src="wanten.png" width="300">
+  <img src="schoenen.png" width="300">
+</div>
+<br>
+
+Dit worden waarschijnlijk de twee haakpatronen die ik ga gebruiken, vooral omdat ze zo goed bij elkaar passen.
 
 ## Eindresultaat & wat ik heb geleerd
+Door het design op een schaal van 1:1 te tekenen weet ik nu wat er moet veranderen. Hoe ik het prototype voor mij zag, is eigenlijk niet groot genoeg. Bepaalde dingen testen en uitproberen is belangrijk. Daarbij heb ik ook geleerd dat ik niet alles alleen hoef te doen, maar dat ik daardoor ook meer tijd moet nemen voor bepaalde punten van het project. Als anderen meer oppakken dan is er ook de kans dat je daardoor moet wachten voordat je zelf verder kunt met jouw deel van het project. Maar naar mijn idee heb ik daardoor de volgende sprint al goed voorbereid.
 
 ## De volgende sprint
+Dit zijn de volgende stappen voor mij bij sprint 4:
+- Een nieuwe tekening maken.
+- De uiteindelijke behuizing maken.
+- Alle onderdelen en apparaten vastzetten in de behuizing.
+- De 'ledematen' van Juf Aimee haken.
+- De verf kopen en spuiten op de behuizing. <br>
+
+De volgende stappen voor mijn team:
+- Echt met Juf Aimee kunnen praten.
+- Het scherm maken wat op de tablet komt.
+- Het dashboard verder afmaken.
+- De camera werkend krijgen.
 
 ## Feedback
