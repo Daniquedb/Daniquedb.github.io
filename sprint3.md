@@ -20,7 +20,7 @@ Na de bespreking wilde ik de app thuis even uitproberen om te kijken of het ook 
 
 <br>
 <div class="image-row">
-  <img src="smartconnect2.png" width="300">
+  <img src="smartconnect2.jpg" width="300">
   <img src="smartconnect1.png" width="300">
 </div>
 <br>
