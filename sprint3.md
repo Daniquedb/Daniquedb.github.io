@@ -23,9 +23,11 @@ Bij FLOOR geven wij de uiteindelijke presentatie van ons provocotype. Samen met 
 - Twee stopcontacten.
 - Graag een plek waar weinig mensen lopen, aangezien ons project facial recognition gebruikt.
 - Graag niet te dichtbij Shadow Harry, want dat provocotype is vergelijkbaar met dat van ons.
-<br> Dit heb ik aangegeven:
-- Wij hebben een microfoon.
-- Wij hebben een koptelefoon.
+
+Dit heb ik aangegeven: <br>
+- Wij hebben een microfoon. <br>
+- Wij hebben een koptelefoon. <br>
+<br>
 
 Dit is belangrijk voor de medewerkers van FLOOR om te weten, zodat zij weten waar elk project het best kan staan. Naderhand van de wensen voor elk project, wordt er een plattegrond gemaakt.
 
@@ -40,7 +42,7 @@ Na de bespreking wilde ik de app thuis even uitproberen om te kijken of het ook 
 <br>
 <div class="image-row">
   <img src="smartconnect2.jpg" width="250">
-  <img src="smartconnect1.png" width="400">
+  <img src="smartconnect1.png" width="350">
 </div>
 <br>
 
@@ -70,7 +72,7 @@ Er moest ook nieuwe cameraonderdelen besteld worden, want het onderdeel van de w
 </div>
 <br>
 
-De microfoon was zo geregeld, gelukkig had ik nog een oude blue snowball op zolder liggen. Wel zei mijn vader dat hij ook nog een andere microfoon had. 
+De microfoon was zo geregeld, gelukkig had ik nog een oude Blue Snowball op zolder liggen. Wel zei mijn vader dat hij ook nog een andere microfoon had. Een NEAT Skyline.
 
 <br>
 <div class="image-row">
@@ -79,9 +81,76 @@ De microfoon was zo geregeld, gelukkig had ik nog een oude blue snowball op zold
 </div>
 <br>
 
+Ik heb online opgezocht welke van de twee beter is. Daaruit is gekomen dat de kwaliteit vergelijkbaar met elkaar is. Uiteindelijk had ik voor de NEAT Skyline gekozen; omdat het compacter is en ook een mute knop heeft. Eigenlijk moest mijn teamgenoot een mute knop maken voor op de tablet, maar dat hoefde hierdoor ook niet meer.
+
 ## Stap 4: Het design op een schaal van 1:1 tekenen
 
+Ik wilde het design graag op een schaal van 1:1 tekenen. Toen ik de UX les volgde moesten wij een design tekenen op A3 papier, dus ik wist dat dat papier in het lokaal lag. Daarom had ik de volgende dag aan een docent gevraagd of ik het mocht gebruiken, gelukkig mocht dat.
 
+### Voorkant
+<img src="voorkant1.jpg" width="500">
+<br>
+
+Als eerst had ik de tablet opgemeten, zodat ik weet hoeveel ruimte daarvoor nodig is.
+
+<br>
+<img src="voorkant2.jpg" width="500">
+<br>
+
+Vervolgens had ik aan alle kanten een rand van 3 centimeter toegevoegd.
+
+<br>
+<img src="voorkant3.jpg" width="500">
+<br>
+
+Tenslotte had ik alle maten toegevoegd en ook een simpele tekening gemaakt van hoe groot het cameraonderdeel is en waar het moet komen.
+
+### Achterkant
+<img src="achterkant1.jpg" width="500">
+<br>
+
+Voor de achterkant had ik dezelfde maten genomen als voor de voorkant.
+
+<br>
+<img src="achterkant2.jpg" width="500">
+<br>
+
+Ik had hier een scharnier toegevoegd, zodat wij het aan de achterkant kunnen openen.
+
+<br>
+<img src="achterkant3.jpg" width="500">
+<br>
+
+In de linkeronderhoek wordt er een stukje uitgelaten voor de kabels.
+
+### Zijkanten
+<img src="zijkant1.jpg" width="500">
+<br>
+
+Voor de bovenkant, onderkant en zijkanten had ik ook voor een diepte gekozen van 3 centimeter.
+
+<br>
+<img src="zijkant2.jpg" width="500">
+<br>
+
+Mijn idee om de benen en armen te bevestigen is door er voor elk twee gleuven in de onderkant en zijkanten te maken. Ik trek de benen en armen naar binnen door de voorste gleuven en haal ze er dan weer door de achterste gleuven heen. Vervolgens bevestig ik het dan aan de behuizing door de garen van de armen en benen aan elkaar vast te maken (meer uitleg hierover verder in de devlog). Dat had ik hier getekend met alle maten erbij.
+
+<br>
+<img src="zijkant3.jpg" width="500">
+<br>
+
+Vervolgens had ik hetzelfde getekend voor de zijkanten van Juf Aimee.
+
+### Veranderingen
+Door het op een schaal van 1:1 te tekenen, werd het voor mij duidelijker dat dit design nog niet af is. Er zijn een aantal punten die ik nog zou aanpassen:
+- Er moet meer ruimte komen in de behuizing voor de onderdelen, de camera en de tablet zitten nu te dicht op elkaar. De randen om de tablet heen zijn te dun.
+- De zijkanten en de boven- en onderkant moeten dieper, ook om meer ruimte te creeëren maar ook om het provocotype stabieler te maken.
+- Aan de achterkant moeten meer scharnieren komen en iets om de achterkant vast te zetten zodat het niet elke keer opengaat.
+- Op het scherm van de tablet zijn de zijkanten zwart. Dit gaat om 0,5 centimer aan de boven- en onderkant en 1 centimeter aan de zijkanten. Deze kunnen verbergd worden, waardoor ik de klemmen van de tablethoes misschien ook kan gebruiken om de tablet in de behuizing vast te zetten. Deze kan je dan namelijk niet meer zien.
+
+<br>
+<img src="TABLET.jpg" width="500">
+<br>
 
 
 ## Stap 5: Bouwmateriaal
